@@ -1,0 +1,501 @@
+customer_age,customer_region,customer_tenure_months,order_value,items_quantity,discount_value,payment_installments,delivery_time_days,delivery_delay_days,freight_value,delivery_attempts,customer_service_contacts,resolution_time_days,complaints_count,real_is_detractor,risk_score,segmento_risco,acao_recomendada
+36,Sul,53,443.59,1,26.75,2,6,2,38.58,1,1,0,3,1,0.46,Monitoramento,Acompanhar indicadores operacionais
+45,Nordeste,111,670.27,4,40.0,11,6,1,21.28,3,1,4,4,1,0.67,Atenção,Monitorar pedido + contato preventivo
+43,Sul,80,815.51,3,33.42,6,8,3,38.22,1,1,2,3,1,0.86,Crítico,Atendimento imediato + comunicação proativa
+38,Centro-Oeste,66,37.84,2,74.94,9,10,3,37.44,3,5,0,11,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+23,Centro-Oeste,113,445.63,5,65.13,4,5,1,36.83,1,0,5,2,0,0.68,Atenção,Monitorar pedido + contato preventivo
+45,Sudeste,112,300.88,2,28.88,11,7,4,39.72,2,1,0,3,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+65,Nordeste,46,87.36,5,1.62,8,14,1,35.57,2,1,6,5,0,0.81,Crítico,Atendimento imediato + comunicação proativa
+65,Sudeste,9,233.43,1,31.45,10,13,1,44.21,1,2,0,3,0,0.27,Regular,Fluxo padrão
+38,Nordeste,106,150.59,5,15.04,4,13,3,41.22,1,0,2,3,1,0.72,Atenção,Monitorar pedido + contato preventivo
+65,Norte,34,570.71,4,51.49,11,14,2,41.51,3,3,5,6,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+44,Norte,100,335.96,4,12.24,1,7,2,37.07,3,2,9,5,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+27,Norte,62,1103.63,6,0.88,10,7,2,59.33,1,2,8,4,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+69,Nordeste,70,893.62,2,2.97,8,4,1,51.42,1,1,3,2,0,0.32,Monitoramento,Acompanhar indicadores operacionais
+31,Sul,119,611.69,1,36.54,2,11,0,36.3,1,0,2,0,0,0.2,Regular,Fluxo padrão
+55,Nordeste,98,1172.8,6,21.18,4,9,1,45.23,1,0,10,3,1,0.58,Atenção,Monitorar pedido + contato preventivo
+19,Sudeste,9,606.49,5,39.05,1,2,2,46.72,1,0,8,3,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+48,Centro-Oeste,29,626.9,3,2.92,10,10,3,45.5,2,1,0,3,1,0.73,Atenção,Monitorar pedido + contato preventivo
+22,Sul,103,72.67,3,20.24,5,2,2,43.21,2,3,0,7,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+32,Nordeste,74,553.97,3,10.81,10,10,3,17.59,3,2,0,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+69,Centro-Oeste,109,208.31,2,0.46,2,12,2,38.89,2,0,8,4,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+23,Sul,103,1094.43,4,36.53,11,14,2,47.86,3,2,11,4,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+31,Centro-Oeste,116,39.87,2,58.17,7,5,0,30.57,3,0,5,1,0,0.39,Monitoramento,Acompanhar indicadores operacionais
+44,Norte,62,274.26,6,14.12,10,5,0,33.54,2,2,8,3,0,0.48,Monitoramento,Acompanhar indicadores operacionais
+48,Centro-Oeste,116,454.45,1,15.58,8,8,3,32.91,2,2,5,5,0,0.97,Crítico,Atendimento imediato + comunicação proativa
+69,Norte,78,178.72,5,47.03,4,9,1,26.82,3,3,2,8,1,0.81,Crítico,Atendimento imediato + comunicação proativa
+57,Nordeste,17,314.17,6,121.0,3,8,7,44.65,1,1,1,4,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+18,Norte,79,283.05,2,59.35,11,10,1,44.55,2,2,5,4,1,0.8,Crítico,Atendimento imediato + comunicação proativa
+18,Norte,5,276.35,4,1.92,4,10,2,38.63,1,1,2,6,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+31,Norte,4,440.81,5,13.03,4,8,2,44.41,1,1,3,3,1,0.57,Atenção,Monitorar pedido + contato preventivo
+69,Norte,41,218.24,2,5.93,4,3,0,37.24,2,4,5,5,0,0.79,Crítico,Atendimento imediato + comunicação proativa
+22,Centro-Oeste,71,706.42,5,61.23,5,4,0,24.83,3,1,3,1,0,0.14,Regular,Fluxo padrão
+22,Nordeste,79,412.31,1,115.2,7,8,3,20.64,2,1,3,4,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+65,Centro-Oeste,60,219.5,4,40.8,10,13,3,25.12,1,1,4,3,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+42,Norte,88,224.97,4,49.87,1,3,1,32.55,2,2,1,4,1,0.59,Atenção,Monitorar pedido + contato preventivo
+36,Centro-Oeste,109,285.91,4,82.01,3,5,1,34.0,1,7,9,11,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+54,Sul,97,676.14,1,2.96,1,6,4,32.27,3,0,1,2,1,0.67,Atenção,Monitorar pedido + contato preventivo
+23,Sul,41,355.38,4,42.97,2,8,1,34.48,3,1,3,3,0,0.33,Monitoramento,Acompanhar indicadores operacionais
+40,Sul,16,555.7,3,3.58,11,14,3,33.07,3,3,0,6,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+20,Nordeste,74,278.49,6,26.36,9,2,3,49.74,1,2,2,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+33,Centro-Oeste,2,892.36,3,31.72,11,2,3,35.06,3,1,7,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+29,Norte,32,34.42,6,6.89,4,5,3,33.23,1,1,10,3,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+35,Sul,47,194.03,2,66.69,7,4,3,15.05,3,1,9,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+20,Sul,1,458.95,2,9.51,10,6,4,28.23,3,0,10,3,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+57,Sul,15,155.46,3,12.52,10,7,1,44.49,3,0,3,2,0,0.27,Regular,Fluxo padrão
+64,Centro-Oeste,20,437.14,3,4.83,11,8,3,34.23,1,2,1,5,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+34,Sul,43,385.1,1,0.24,6,13,1,60.32,1,1,2,3,0,0.5,Atenção,Monitorar pedido + contato preventivo
+69,Nordeste,99,232.1,4,47.45,7,6,2,43.75,3,1,1,3,1,0.61,Atenção,Monitorar pedido + contato preventivo
+59,Centro-Oeste,117,155.44,5,39.09,11,3,5,43.63,3,0,5,4,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+67,Sudeste,111,92.17,3,28.32,2,9,2,28.15,3,1,8,2,0,0.6,Atenção,Monitorar pedido + contato preventivo
+49,Nordeste,105,297.92,1,4.48,7,4,1,27.89,3,1,11,5,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+51,Sudeste,15,1070.81,3,68.36,10,4,2,32.49,3,2,11,5,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+49,Nordeste,7,94.23,1,21.63,3,7,1,58.3,3,1,11,3,1,0.65,Atenção,Monitorar pedido + contato preventivo
+60,Nordeste,41,484.08,3,13.24,11,11,5,28.93,1,0,0,2,1,0.73,Atenção,Monitorar pedido + contato preventivo
+21,Norte,73,493.06,3,43.42,6,7,2,35.2,3,1,8,3,1,0.57,Atenção,Monitorar pedido + contato preventivo
+30,Sudeste,114,1248.46,5,59.49,11,4,4,65.58,3,1,10,3,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+20,Centro-Oeste,6,327.13,1,53.02,2,4,2,49.03,3,2,11,5,0,0.87,Crítico,Atendimento imediato + comunicação proativa
+36,Norte,7,859.15,2,67.46,5,5,3,32.79,2,6,10,10,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+44,Centro-Oeste,67,237.97,4,8.39,6,14,3,30.49,2,1,2,5,0,0.97,Crítico,Atendimento imediato + comunicação proativa
+34,Norte,26,450.67,3,32.51,6,11,0,35.8,2,0,11,2,0,0.41,Monitoramento,Acompanhar indicadores operacionais
+46,Nordeste,92,355.29,1,10.24,4,13,1,41.51,1,3,1,6,0,0.73,Atenção,Monitorar pedido + contato preventivo
+62,Nordeste,7,323.25,3,12.78,4,12,4,47.3,2,3,8,8,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+38,Nordeste,26,496.26,3,33.99,10,14,3,45.66,2,2,2,5,0,1.0,Crítico,Atendimento imediato + comunicação proativa
+66,Centro-Oeste,79,290.63,1,16.14,5,7,3,47.3,2,1,3,4,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+36,Norte,96,912.65,1,6.72,11,4,5,40.62,3,5,0,8,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+63,Nordeste,29,640.32,1,3.91,5,9,3,46.03,1,0,0,5,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+38,Norte,72,450.17,3,41.27,5,3,1,30.13,3,2,4,5,0,0.72,Atenção,Monitorar pedido + contato preventivo
+53,Norte,103,139.18,1,21.63,5,6,4,19.4,2,2,3,5,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+56,Norte,50,253.06,1,29.37,11,13,1,39.32,1,1,0,3,0,0.35,Monitoramento,Acompanhar indicadores operacionais
+60,Sul,3,98.9,5,36.1,6,12,1,35.82,3,0,7,3,1,0.63,Atenção,Monitorar pedido + contato preventivo
+41,Sudeste,76,217.9,5,9.85,5,9,3,21.86,3,0,6,4,0,0.84,Crítico,Atendimento imediato + comunicação proativa
+32,Sul,55,107.37,4,121.72,2,12,1,22.03,3,4,10,8,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+50,Norte,20,375.96,5,1.03,7,11,1,28.12,1,0,6,1,0,0.15,Regular,Fluxo padrão
+29,Sul,58,525.95,5,9.27,6,11,0,47.18,1,1,1,4,0,0.34,Monitoramento,Acompanhar indicadores operacionais
+38,Sudeste,117,569.52,5,0.14,11,5,2,33.96,2,0,4,3,1,0.72,Atenção,Monitorar pedido + contato preventivo
+32,Sudeste,71,315.43,2,5.95,11,8,0,48.75,3,0,8,1,0,0.16,Regular,Fluxo padrão
+39,Centro-Oeste,112,531.95,1,51.91,7,13,3,51.81,2,1,8,3,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+47,Sudeste,37,245.24,6,12.29,8,3,3,31.88,2,0,8,3,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+52,Sudeste,59,383.99,2,11.63,4,9,1,49.46,3,0,4,1,0,0.23,Regular,Fluxo padrão
+46,Nordeste,57,537.08,6,9.44,2,12,2,38.06,3,2,11,5,0,0.87,Crítico,Atendimento imediato + comunicação proativa
+54,Sul,77,247.08,6,6.83,3,12,3,50.98,1,0,9,2,1,0.76,Crítico,Atendimento imediato + comunicação proativa
+49,Nordeste,119,689.0,4,34.24,3,14,2,28.21,1,3,3,7,1,0.85,Crítico,Atendimento imediato + comunicação proativa
+67,Centro-Oeste,52,657.4,1,11.73,4,12,3,51.45,1,1,8,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+34,Sudeste,61,94.49,3,3.7,7,11,1,63.15,1,3,11,7,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+29,Centro-Oeste,117,202.43,4,4.8,10,4,3,25.72,3,0,7,4,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+20,Norte,61,370.21,3,24.93,10,7,1,41.49,3,2,2,5,0,0.7,Atenção,Monitorar pedido + contato preventivo
+19,Norte,92,923.27,2,13.42,3,4,2,58.04,1,4,6,6,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+42,Nordeste,105,249.4,4,19.76,3,14,3,12.01,2,1,3,4,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+38,Sudeste,100,370.99,1,23.05,11,4,3,33.71,1,0,2,4,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+69,Sudeste,73,483.66,2,20.82,10,3,3,39.08,3,1,7,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+22,Centro-Oeste,5,199.27,3,67.34,10,5,3,38.63,3,1,9,4,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+63,Norte,114,491.93,4,39.3,1,11,0,30.19,3,3,11,4,1,0.68,Atenção,Monitorar pedido + contato preventivo
+24,Centro-Oeste,95,576.06,5,47.06,6,4,1,23.26,2,1,4,4,1,0.6,Atenção,Monitorar pedido + contato preventivo
+45,Norte,49,179.06,5,6.13,6,8,3,47.87,2,1,7,7,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+38,Sul,50,755.61,1,10.68,9,3,2,37.91,2,3,11,5,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+42,Nordeste,81,431.58,1,23.33,7,4,3,42.27,3,1,7,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+55,Centro-Oeste,82,621.1,2,53.62,10,2,1,37.52,2,1,5,3,1,0.59,Atenção,Monitorar pedido + contato preventivo
+35,Sudeste,62,249.43,6,19.09,9,9,2,40.37,2,5,0,7,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+34,Norte,39,200.12,5,3.02,4,10,1,56.3,3,1,4,3,1,0.39,Monitoramento,Acompanhar indicadores operacionais
+23,Centro-Oeste,7,129.37,3,15.75,10,13,1,27.37,3,2,9,5,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+61,Sul,83,505.43,3,19.01,2,5,2,43.18,1,3,1,7,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+40,Norte,56,98.69,4,15.38,11,10,2,45.74,1,2,8,7,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+49,Centro-Oeste,46,121.59,2,6.08,8,13,2,42.14,3,0,1,3,0,0.5,Atenção,Monitorar pedido + contato preventivo
+27,Centro-Oeste,10,446.45,3,12.22,1,4,4,19.24,3,2,3,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+23,Norte,76,459.81,2,35.71,8,2,1,17.47,2,0,7,3,0,0.63,Atenção,Monitorar pedido + contato preventivo
+37,Sudeste,53,268.01,5,9.27,6,4,3,46.55,1,1,3,3,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+38,Norte,32,584.26,4,197.07,11,3,3,30.05,2,0,0,2,1,0.52,Atenção,Monitorar pedido + contato preventivo
+42,Nordeste,62,669.71,4,48.75,5,14,1,23.83,1,1,8,5,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+50,Norte,70,391.66,4,0.25,11,3,2,59.78,2,1,6,4,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+22,Norte,8,382.37,4,86.84,10,14,6,46.75,3,0,5,3,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+62,Sul,62,577.56,5,32.7,2,2,0,49.52,3,4,10,5,0,0.8,Crítico,Atendimento imediato + comunicação proativa
+54,Centro-Oeste,7,160.92,1,14.39,11,5,7,51.92,3,1,5,5,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+29,Sul,15,182.19,2,18.18,3,11,1,45.48,1,1,9,3,1,0.5,Atenção,Monitorar pedido + contato preventivo
+58,Norte,11,47.07,1,50.24,3,7,2,32.58,1,1,11,4,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+38,Sudeste,26,323.22,6,48.95,9,13,0,22.17,2,1,6,1,0,0.21,Regular,Fluxo padrão
+48,Centro-Oeste,101,560.33,2,6.72,8,9,3,23.73,2,1,11,4,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+50,Centro-Oeste,87,742.01,2,140.46,5,2,1,28.15,1,1,10,3,1,0.55,Atenção,Monitorar pedido + contato preventivo
+30,Nordeste,69,409.06,3,25.03,6,4,1,41.93,2,2,8,5,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+55,Nordeste,113,261.42,4,28.92,3,9,1,16.29,3,1,10,3,0,0.56,Atenção,Monitorar pedido + contato preventivo
+19,Centro-Oeste,4,198.26,4,19.24,11,6,5,37.36,2,2,7,4,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+60,Centro-Oeste,79,114.98,2,51.09,11,7,2,23.4,3,1,6,3,1,0.73,Atenção,Monitorar pedido + contato preventivo
+48,Norte,9,785.3,6,3.17,10,12,1,39.0,2,1,8,6,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+64,Centro-Oeste,75,125.8,1,5.47,4,4,2,48.35,3,6,7,8,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+34,Norte,95,172.0,4,14.71,10,2,4,24.84,2,2,4,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+51,Sudeste,89,132.83,1,48.84,1,11,2,21.01,3,2,3,6,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+51,Sul,112,265.31,1,31.87,10,6,1,44.13,1,2,11,7,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+39,Sudeste,62,143.57,5,75.76,6,2,2,52.09,2,1,11,4,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+45,Norte,40,351.48,2,32.49,5,14,0,29.2,2,3,7,4,1,0.63,Atenção,Monitorar pedido + contato preventivo
+32,Norte,46,150.41,6,0.05,10,6,3,24.36,1,0,3,4,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+65,Sul,83,397.15,5,6.08,11,7,1,39.49,2,0,5,2,0,0.31,Monitoramento,Acompanhar indicadores operacionais
+62,Sudeste,80,489.05,4,89.59,2,14,1,49.71,3,2,2,5,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+32,Centro-Oeste,31,208.36,4,15.1,5,4,0,45.32,2,1,10,1,0,0.27,Regular,Fluxo padrão
+67,Norte,85,638.29,2,31.65,10,6,1,47.35,2,1,3,2,0,0.3,Monitoramento,Acompanhar indicadores operacionais
+59,Nordeste,32,221.34,1,47.42,1,12,2,28.51,1,1,5,3,1,0.75,Crítico,Atendimento imediato + comunicação proativa
+23,Centro-Oeste,40,307.57,5,13.19,5,12,0,54.67,1,3,1,3,0,0.36,Monitoramento,Acompanhar indicadores operacionais
+67,Sudeste,15,340.13,5,4.8,2,7,0,21.06,3,1,4,5,0,0.64,Atenção,Monitorar pedido + contato preventivo
+21,Norte,103,526.18,4,38.15,9,2,1,41.84,1,0,11,6,1,0.83,Crítico,Atendimento imediato + comunicação proativa
+68,Norte,111,349.57,3,42.01,10,2,2,39.17,2,3,9,7,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+57,Centro-Oeste,58,102.93,5,21.66,11,14,0,45.55,3,1,3,1,0,0.16,Regular,Fluxo padrão
+36,Sudeste,103,477.73,2,22.94,8,3,3,54.52,3,0,3,2,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+60,Sul,37,428.76,4,29.54,10,11,5,44.5,1,0,2,2,1,0.77,Crítico,Atendimento imediato + comunicação proativa
+32,Norte,112,572.3,4,21.25,8,10,4,36.76,2,2,2,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+23,Norte,116,284.14,5,38.98,4,4,4,49.83,2,3,11,6,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+44,Sudeste,8,68.3,6,19.24,5,4,1,62.88,2,1,9,4,1,0.85,Crítico,Atendimento imediato + comunicação proativa
+41,Sul,85,350.94,6,0.36,9,9,1,46.38,1,3,10,5,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+42,Sul,111,753.74,1,11.66,10,11,1,37.08,2,5,8,7,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+56,Sudeste,111,363.18,1,28.02,8,6,2,29.16,3,0,5,2,0,0.59,Atenção,Monitorar pedido + contato preventivo
+49,Centro-Oeste,112,373.64,6,31.31,1,14,2,19.46,3,0,2,2,0,0.54,Atenção,Monitorar pedido + contato preventivo
+68,Sudeste,119,559.41,3,81.77,9,12,3,50.28,2,1,8,3,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+45,Centro-Oeste,116,182.12,6,0.19,5,8,2,45.9,2,3,0,5,1,0.75,Crítico,Atendimento imediato + comunicação proativa
+38,Sudeste,60,623.26,3,22.28,9,14,2,58.16,2,1,6,4,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+37,Sudeste,62,40.76,2,23.68,2,5,1,17.34,2,1,2,3,1,0.64,Atenção,Monitorar pedido + contato preventivo
+61,Sudeste,66,516.25,5,2.78,2,14,2,46.83,3,0,6,1,0,0.39,Monitoramento,Acompanhar indicadores operacionais
+69,Sul,21,456.68,1,7.54,1,5,2,45.04,1,1,9,3,1,0.77,Crítico,Atendimento imediato + comunicação proativa
+60,Sul,26,278.11,6,29.09,2,6,4,32.46,3,2,1,6,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+59,Sudeste,48,572.01,6,14.77,1,10,1,32.66,2,0,9,1,0,0.25,Regular,Fluxo padrão
+41,Centro-Oeste,80,244.92,6,0.38,2,7,5,48.26,2,2,8,6,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+40,Sul,37,180.12,3,7.45,6,6,2,14.12,1,2,5,6,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+43,Sul,75,193.84,4,8.65,10,11,2,51.39,3,1,9,3,0,0.7,Atenção,Monitorar pedido + contato preventivo
+53,Sul,82,382.09,2,71.83,9,6,4,45.79,2,2,11,6,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+59,Nordeste,64,609.0,2,31.27,7,2,1,35.11,2,2,6,5,1,0.69,Atenção,Monitorar pedido + contato preventivo
+64,Centro-Oeste,56,425.3,1,31.16,8,13,3,32.52,2,1,7,3,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+50,Sul,81,578.34,3,28.67,5,2,0,38.37,1,0,2,0,0,0.16,Regular,Fluxo padrão
+60,Nordeste,6,248.21,4,8.05,6,8,3,45.04,1,1,3,3,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+36,Nordeste,99,685.66,3,18.51,3,14,4,42.81,3,2,0,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+42,Nordeste,27,675.26,6,28.5,2,7,1,24.72,3,1,2,4,0,0.59,Atenção,Monitorar pedido + contato preventivo
+66,Nordeste,25,335.86,6,7.82,5,8,3,38.42,1,1,3,5,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+37,Centro-Oeste,21,317.48,4,43.07,10,7,2,51.39,3,0,8,2,1,0.46,Monitoramento,Acompanhar indicadores operacionais
+35,Sudeste,75,568.76,6,36.58,3,4,5,41.82,2,2,3,5,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+20,Sudeste,97,225.35,6,39.43,3,10,1,20.51,1,0,0,2,0,0.33,Monitoramento,Acompanhar indicadores operacionais
+31,Sudeste,80,329.96,3,22.66,2,6,3,44.38,1,1,6,2,0,0.58,Atenção,Monitorar pedido + contato preventivo
+31,Sudeste,70,791.46,1,10.45,8,6,3,40.06,2,2,4,4,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+19,Sudeste,58,589.08,2,86.68,6,3,2,32.13,3,1,1,4,1,0.54,Atenção,Monitorar pedido + contato preventivo
+32,Centro-Oeste,17,373.43,2,9.42,5,3,5,39.86,2,1,6,3,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+46,Sudeste,10,321.49,1,96.07,7,9,2,51.48,1,3,4,5,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+35,Norte,108,843.11,5,3.37,3,2,2,48.89,3,2,11,4,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+21,Nordeste,10,891.78,6,4.0,9,10,0,14.96,1,1,1,1,0,0.21,Regular,Fluxo padrão
+48,Sudeste,41,957.71,5,19.6,9,2,1,30.54,1,1,7,4,0,0.57,Atenção,Monitorar pedido + contato preventivo
+64,Norte,28,359.49,2,11.01,11,9,0,26.18,2,2,9,3,1,0.38,Monitoramento,Acompanhar indicadores operacionais
+27,Centro-Oeste,30,284.43,2,44.76,7,7,1,32.46,3,0,2,1,0,0.21,Regular,Fluxo padrão
+25,Sudeste,57,293.61,3,47.72,11,12,1,44.57,3,1,9,6,1,0.77,Crítico,Atendimento imediato + comunicação proativa
+63,Sul,32,106.57,3,8.71,6,5,2,66.44,3,2,8,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+53,Norte,104,678.18,4,28.51,5,9,2,35.02,2,1,10,4,1,0.74,Atenção,Monitorar pedido + contato preventivo
+20,Norte,60,179.58,1,76.07,5,3,2,34.17,3,3,8,5,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+63,Centro-Oeste,56,243.47,2,38.99,7,13,2,45.27,1,1,5,4,1,0.76,Crítico,Atendimento imediato + comunicação proativa
+52,Norte,95,819.13,2,10.11,2,11,1,44.86,2,3,5,7,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+25,Norte,56,312.04,3,9.09,6,7,0,12.04,3,0,4,2,0,0.42,Monitoramento,Acompanhar indicadores operacionais
+56,Centro-Oeste,63,419.32,3,6.0,8,3,4,43.58,2,0,3,3,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+46,Sul,51,140.63,6,10.15,2,8,0,19.05,2,4,10,6,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+36,Norte,50,625.97,5,64.98,8,9,1,40.12,2,1,11,3,1,0.65,Atenção,Monitorar pedido + contato preventivo
+25,Centro-Oeste,42,161.36,4,17.76,3,7,3,34.63,2,3,6,4,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+63,Centro-Oeste,118,403.59,1,28.73,11,2,2,46.69,3,0,9,2,1,0.62,Atenção,Monitorar pedido + contato preventivo
+50,Centro-Oeste,28,616.17,2,23.0,8,4,2,52.94,3,0,7,6,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+66,Sul,23,526.92,4,1.39,10,2,2,41.45,3,1,6,4,1,0.68,Atenção,Monitorar pedido + contato preventivo
+33,Nordeste,97,248.31,5,17.71,7,6,1,48.43,1,1,7,3,1,0.47,Monitoramento,Acompanhar indicadores operacionais
+65,Sul,22,310.54,6,3.49,2,4,2,24.61,2,0,4,3,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+58,Centro-Oeste,52,196.9,2,5.63,11,8,2,34.77,1,2,11,5,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+35,Centro-Oeste,92,211.04,1,30.35,8,3,1,25.04,3,3,8,5,1,0.77,Crítico,Atendimento imediato + comunicação proativa
+42,Sul,102,908.39,4,26.94,9,4,1,44.67,1,1,2,2,0,0.27,Regular,Fluxo padrão
+54,Sul,30,66.57,1,21.54,4,2,4,22.62,2,1,11,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+67,Sul,78,484.34,1,25.45,4,6,1,36.47,3,2,2,3,0,0.39,Monitoramento,Acompanhar indicadores operacionais
+21,Sudeste,4,68.73,6,39.5,11,9,2,45.93,3,2,5,5,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+58,Sudeste,11,71.39,4,4.12,10,10,4,41.94,2,1,5,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+65,Nordeste,6,348.48,3,123.3,6,14,2,46.72,3,1,7,2,0,0.49,Monitoramento,Acompanhar indicadores operacionais
+22,Norte,19,307.3,6,7.7,7,9,3,20.07,1,1,6,4,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+59,Centro-Oeste,98,340.23,3,48.81,5,8,3,25.09,2,2,0,4,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+36,Sudeste,6,164.11,2,18.91,6,8,1,30.45,1,1,11,2,0,0.42,Monitoramento,Acompanhar indicadores operacionais
+31,Centro-Oeste,60,366.07,6,14.83,3,3,3,33.67,2,3,10,6,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+40,Nordeste,48,121.36,6,20.14,11,13,2,41.34,2,2,7,6,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+28,Sul,31,406.72,1,9.23,8,8,2,47.92,2,4,10,6,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+59,Centro-Oeste,26,245.56,6,21.38,6,5,2,36.76,3,2,9,4,1,0.86,Crítico,Atendimento imediato + comunicação proativa
+67,Sudeste,117,496.5,5,36.04,9,2,2,26.77,1,0,8,1,0,0.52,Atenção,Monitorar pedido + contato preventivo
+66,Nordeste,108,555.83,5,30.85,8,7,3,47.55,3,2,2,6,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+37,Norte,22,190.65,1,26.6,10,2,0,29.47,2,1,5,3,0,0.55,Atenção,Monitorar pedido + contato preventivo
+57,Nordeste,59,378.62,5,23.11,11,12,2,42.5,2,3,4,7,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+41,Centro-Oeste,70,335.79,4,24.22,6,12,2,49.03,1,4,9,9,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+64,Nordeste,61,981.65,2,11.46,8,8,2,33.33,3,2,2,4,1,0.63,Atenção,Monitorar pedido + contato preventivo
+38,Sul,2,1003.78,6,8.75,7,13,1,20.2,3,3,3,5,1,0.7,Atenção,Monitorar pedido + contato preventivo
+36,Sul,92,282.15,4,26.43,1,10,2,40.96,1,0,10,4,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+24,Sudeste,39,544.17,6,60.98,7,9,3,27.71,3,2,10,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+62,Sudeste,30,98.29,4,31.32,3,9,2,39.85,3,1,7,3,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+37,Nordeste,51,689.71,6,28.16,11,12,1,42.06,3,2,9,6,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+68,Sudeste,84,628.69,4,47.48,5,2,4,40.79,1,2,2,5,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+39,Nordeste,11,608.13,3,39.51,9,13,4,36.14,2,2,11,4,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+40,Norte,47,817.68,2,27.57,2,7,3,50.21,3,2,0,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+61,Nordeste,63,333.16,2,20.68,4,5,2,54.76,3,1,3,3,1,0.5,Atenção,Monitorar pedido + contato preventivo
+52,Nordeste,97,342.72,4,11.63,6,7,0,33.36,1,2,2,5,1,0.7,Atenção,Monitorar pedido + contato preventivo
+65,Sudeste,81,212.06,2,20.22,4,14,1,23.25,2,1,6,2,0,0.36,Monitoramento,Acompanhar indicadores operacionais
+24,Centro-Oeste,35,68.85,1,140.73,9,13,0,43.23,3,0,4,1,0,0.31,Monitoramento,Acompanhar indicadores operacionais
+66,Sudeste,77,978.28,2,2.27,1,4,3,31.69,1,0,1,3,0,0.71,Atenção,Monitorar pedido + contato preventivo
+38,Sudeste,11,344.19,4,113.73,5,10,1,56.66,1,3,11,7,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+60,Sul,8,411.19,6,50.45,6,7,1,29.23,2,1,8,3,1,0.58,Atenção,Monitorar pedido + contato preventivo
+58,Centro-Oeste,46,80.57,5,16.79,2,13,2,47.61,3,3,4,6,0,0.98,Crítico,Atendimento imediato + comunicação proativa
+43,Norte,34,665.48,3,44.01,2,3,4,36.6,1,2,4,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+54,Norte,18,441.68,3,24.7,8,6,3,43.68,3,1,1,4,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+42,Centro-Oeste,113,550.88,5,1.45,2,13,0,23.52,1,1,11,1,0,0.35,Monitoramento,Acompanhar indicadores operacionais
+28,Norte,112,448.35,5,5.93,3,5,1,35.76,1,1,10,3,1,0.54,Atenção,Monitorar pedido + contato preventivo
+21,Nordeste,87,92.04,5,79.35,1,7,3,10.23,1,4,11,7,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+42,Nordeste,107,695.91,3,56.14,2,9,5,52.95,2,0,10,5,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+23,Centro-Oeste,110,453.33,5,129.59,8,2,2,42.95,1,2,7,5,1,0.83,Crítico,Atendimento imediato + comunicação proativa
+26,Centro-Oeste,9,94.64,3,48.72,1,9,0,39.74,3,0,3,1,0,0.28,Regular,Fluxo padrão
+56,Nordeste,63,927.18,1,20.25,4,12,1,41.54,2,1,6,2,0,0.19,Regular,Fluxo padrão
+30,Sudeste,15,158.16,6,111.61,10,11,2,49.43,3,0,7,4,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+36,Sudeste,116,379.49,1,10.8,4,6,0,26.24,3,2,0,2,0,0.26,Regular,Fluxo padrão
+46,Norte,90,460.54,5,6.15,3,13,3,40.54,3,1,6,3,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+19,Nordeste,114,153.61,3,32.96,8,4,1,42.81,3,0,1,3,1,0.33,Monitoramento,Acompanhar indicadores operacionais
+46,Sudeste,22,337.65,1,21.17,3,5,3,21.26,3,1,1,3,0,0.85,Crítico,Atendimento imediato + comunicação proativa
+48,Norte,95,318.3,4,12.38,10,9,2,43.2,1,2,2,5,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+52,Sul,21,764.43,3,4.78,3,3,4,52.18,2,0,0,2,0,0.63,Atenção,Monitorar pedido + contato preventivo
+69,Nordeste,81,70.41,6,18.87,5,4,2,49.5,2,0,10,2,0,0.62,Atenção,Monitorar pedido + contato preventivo
+57,Sudeste,111,265.48,5,12.86,2,2,4,38.92,3,0,10,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+25,Sudeste,98,335.88,6,4.24,2,11,1,44.77,2,2,6,7,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+28,Nordeste,32,1461.91,6,23.92,11,13,1,54.99,2,0,8,1,0,0.31,Monitoramento,Acompanhar indicadores operacionais
+40,Sul,68,55.54,5,71.45,3,4,2,52.16,2,3,2,5,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+47,Sudeste,48,263.98,4,34.02,6,11,4,61.51,3,1,10,4,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+29,Sudeste,39,711.22,6,4.92,2,2,1,28.2,1,3,2,6,1,0.85,Crítico,Atendimento imediato + comunicação proativa
+22,Sul,107,220.97,1,17.84,6,4,3,56.08,2,1,10,6,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+54,Sul,49,847.04,1,17.72,7,13,3,13.95,3,2,1,4,0,0.93,Crítico,Atendimento imediato + comunicação proativa
+23,Centro-Oeste,6,698.12,6,4.94,8,14,4,23.75,2,0,0,3,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+38,Norte,11,431.19,6,4.15,2,8,2,29.1,1,0,0,2,1,0.45,Monitoramento,Acompanhar indicadores operacionais
+25,Centro-Oeste,82,872.53,6,74.23,2,14,2,25.57,2,2,3,4,1,0.68,Atenção,Monitorar pedido + contato preventivo
+54,Norte,39,375.09,4,5.51,2,9,1,39.8,3,1,10,4,1,0.7,Atenção,Monitorar pedido + contato preventivo
+42,Sudeste,22,289.0,1,41.56,6,5,0,42.19,3,1,4,1,0,0.25,Regular,Fluxo padrão
+41,Nordeste,71,12.13,1,35.19,8,4,4,29.34,1,1,9,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+26,Sudeste,21,809.27,6,4.35,6,14,1,60.27,1,3,7,7,1,0.83,Crítico,Atendimento imediato + comunicação proativa
+56,Sul,31,688.36,5,77.19,5,4,2,42.26,1,0,10,2,1,0.43,Monitoramento,Acompanhar indicadores operacionais
+41,Sul,89,203.38,2,71.48,2,10,1,38.52,2,3,11,8,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+41,Sul,77,471.91,6,67.89,5,13,0,42.32,1,2,3,2,0,0.34,Monitoramento,Acompanhar indicadores operacionais
+31,Centro-Oeste,117,143.96,6,30.38,11,4,2,35.67,1,1,2,3,0,0.66,Atenção,Monitorar pedido + contato preventivo
+32,Sudeste,71,199.41,1,12.09,11,5,3,21.15,2,0,2,8,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+30,Sudeste,45,139.62,4,5.5,7,8,1,60.85,1,7,1,10,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+67,Norte,20,87.08,2,15.68,1,6,1,53.79,3,1,3,3,0,0.53,Atenção,Monitorar pedido + contato preventivo
+60,Centro-Oeste,67,663.31,6,37.22,10,6,4,45.09,1,2,9,6,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+33,Sudeste,55,442.57,2,26.19,8,7,1,35.59,2,3,3,5,0,0.68,Atenção,Monitorar pedido + contato preventivo
+63,Norte,11,193.62,3,41.32,8,10,3,55.43,3,1,2,5,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+21,Norte,46,262.34,6,2.51,11,11,4,41.05,2,2,3,8,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+44,Centro-Oeste,86,61.68,4,29.44,2,11,2,28.64,2,3,5,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+56,Norte,103,467.14,4,23.81,5,12,2,38.45,3,1,9,5,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+34,Centro-Oeste,119,508.03,4,28.57,1,7,2,44.75,3,1,11,3,1,0.77,Crítico,Atendimento imediato + comunicação proativa
+26,Norte,75,519.09,5,83.58,4,11,5,40.47,2,0,0,5,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+26,Sul,1,196.28,4,16.38,7,12,3,23.0,1,1,11,4,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+58,Sudeste,47,221.05,2,17.25,3,5,2,48.59,2,1,5,4,0,0.79,Crítico,Atendimento imediato + comunicação proativa
+47,Sudeste,85,252.69,1,8.74,5,4,2,30.52,3,0,11,3,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+47,Sudeste,86,180.27,6,0.28,8,11,1,33.55,3,1,1,4,1,0.42,Monitoramento,Acompanhar indicadores operacionais
+19,Sudeste,113,198.1,3,3.57,1,2,1,31.99,3,2,10,4,0,0.76,Crítico,Atendimento imediato + comunicação proativa
+60,Sul,5,145.26,3,7.08,9,4,2,27.2,1,4,11,7,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+47,Nordeste,18,463.71,3,9.89,4,5,0,17.21,3,1,7,3,1,0.43,Monitoramento,Acompanhar indicadores operacionais
+38,Sul,22,362.26,3,30.18,6,6,2,46.03,3,2,6,3,0,0.45,Monitoramento,Acompanhar indicadores operacionais
+44,Nordeste,12,1372.62,2,67.88,3,6,0,55.08,3,0,2,0,0,0.29,Regular,Fluxo padrão
+19,Sul,76,489.59,6,39.27,8,8,4,53.25,1,3,10,6,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+44,Sudeste,80,404.4,2,12.49,10,5,5,25.46,2,1,10,4,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+36,Norte,117,631.64,1,14.7,2,11,0,45.79,2,1,3,4,1,0.51,Atenção,Monitorar pedido + contato preventivo
+36,Nordeste,50,135.24,4,14.51,4,8,5,44.62,2,3,3,7,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+49,Sul,23,454.98,6,15.8,10,5,4,49.35,2,1,8,4,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+38,Sudeste,109,303.79,3,1.84,9,8,2,33.76,3,4,4,7,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+47,Sul,118,482.64,6,2.69,4,8,2,53.03,2,1,9,5,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+35,Nordeste,52,477.56,3,53.1,4,14,1,28.06,3,4,11,6,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+52,Sudeste,12,173.52,6,14.92,4,12,3,29.28,2,2,11,6,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+46,Norte,87,506.53,6,2.69,8,11,1,31.43,3,1,1,4,0,0.41,Monitoramento,Acompanhar indicadores operacionais
+56,Nordeste,7,501.43,5,66.56,2,14,3,23.44,1,1,5,4,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+30,Norte,91,202.48,3,23.26,6,4,1,39.75,2,1,3,3,0,0.28,Regular,Fluxo padrão
+34,Sul,88,309.13,5,38.91,8,9,5,36.58,3,4,5,6,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+53,Sudeste,106,273.2,6,10.77,1,12,4,54.32,1,1,4,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+50,Centro-Oeste,21,916.97,1,55.2,8,3,1,43.57,1,0,11,2,1,0.41,Monitoramento,Acompanhar indicadores operacionais
+47,Nordeste,16,302.88,4,72.49,5,2,6,39.62,3,1,6,3,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+57,Sudeste,63,1153.7,4,5.89,7,8,4,39.96,2,3,6,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+34,Sul,11,269.15,4,78.77,2,10,2,49.66,2,1,10,2,0,0.54,Atenção,Monitorar pedido + contato preventivo
+45,Nordeste,95,285.22,3,67.41,8,10,1,45.55,3,1,1,3,1,0.29,Regular,Fluxo padrão
+31,Norte,102,140.0,4,26.97,4,3,2,34.58,1,2,1,6,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+60,Norte,94,93.21,4,2.75,10,4,5,49.82,1,4,4,6,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+32,Sul,73,676.14,1,68.44,4,11,2,43.14,1,1,8,2,0,0.42,Monitoramento,Acompanhar indicadores operacionais
+57,Sudeste,47,450.65,5,4.79,6,12,1,43.3,3,1,2,4,0,0.45,Monitoramento,Acompanhar indicadores operacionais
+42,Norte,11,380.12,4,5.09,3,13,1,67.79,2,2,5,3,0,0.49,Monitoramento,Acompanhar indicadores operacionais
+36,Nordeste,14,492.2,2,23.28,11,5,1,42.8,1,1,9,4,0,0.67,Atenção,Monitorar pedido + contato preventivo
+23,Sudeste,106,286.17,5,4.5,2,7,2,33.71,2,1,6,4,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+40,Sul,115,262.62,3,8.32,3,4,6,46.55,2,1,0,3,1,0.83,Crítico,Atendimento imediato + comunicação proativa
+54,Norte,75,617.46,3,24.83,7,13,3,22.99,2,2,2,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+58,Nordeste,83,840.99,5,28.96,2,9,1,56.54,1,3,2,5,1,0.83,Crítico,Atendimento imediato + comunicação proativa
+26,Centro-Oeste,89,845.79,2,4.21,3,9,2,46.93,2,0,2,2,1,0.37,Monitoramento,Acompanhar indicadores operacionais
+54,Sudeste,50,402.0,5,2.08,1,12,1,22.27,1,2,10,5,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+21,Sudeste,80,301.56,2,23.06,10,3,0,32.81,1,1,3,4,0,0.62,Atenção,Monitorar pedido + contato preventivo
+55,Nordeste,108,339.6,3,3.83,7,9,1,34.93,2,1,9,3,1,0.48,Monitoramento,Acompanhar indicadores operacionais
+58,Norte,85,448.1,1,26.13,2,5,4,30.86,2,2,3,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+37,Centro-Oeste,64,927.01,4,2.17,7,7,5,20.32,1,2,9,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+64,Sudeste,91,943.87,2,72.92,11,11,2,48.08,3,2,1,6,1,0.8,Crítico,Atendimento imediato + comunicação proativa
+68,Sul,107,364.49,6,20.0,11,13,0,24.52,2,0,11,1,0,0.34,Monitoramento,Acompanhar indicadores operacionais
+61,Sudeste,55,816.09,3,14.98,11,3,3,49.61,2,3,5,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+67,Sudeste,111,422.86,5,33.25,3,14,2,43.08,1,1,8,4,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+37,Nordeste,99,310.79,6,8.4,2,11,1,44.14,1,1,2,4,1,0.49,Monitoramento,Acompanhar indicadores operacionais
+32,Centro-Oeste,77,421.44,1,4.7,10,13,0,39.67,1,1,5,1,0,0.16,Regular,Fluxo padrão
+34,Sul,87,394.66,2,26.15,11,7,4,31.48,1,0,11,4,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+50,Norte,80,225.87,1,11.69,6,13,2,20.35,2,5,4,7,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+65,Sul,46,275.69,3,36.94,10,13,3,45.27,1,3,2,5,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+52,Nordeste,5,243.15,4,14.69,9,3,3,49.71,2,1,1,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+52,Norte,35,250.99,3,1.29,1,4,4,38.52,1,1,10,4,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+27,Sudeste,58,216.17,6,19.93,5,14,2,20.09,2,3,9,6,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+18,Nordeste,70,167.65,6,69.74,11,11,2,58.51,3,1,5,4,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+56,Nordeste,22,399.72,2,8.74,2,9,3,20.15,2,2,3,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+66,Nordeste,57,74.87,2,23.68,8,10,0,34.17,3,0,6,1,1,0.25,Regular,Fluxo padrão
+38,Norte,73,973.75,6,14.22,10,3,4,22.49,2,1,1,4,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+35,Centro-Oeste,44,629.15,2,41.01,11,5,3,28.9,1,5,8,8,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+48,Centro-Oeste,113,592.69,4,38.79,9,4,0,37.25,2,1,2,3,1,0.43,Monitoramento,Acompanhar indicadores operacionais
+65,Norte,53,438.07,5,20.56,10,2,3,40.28,3,0,6,3,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+51,Centro-Oeste,71,660.28,1,7.44,2,13,2,38.91,2,1,1,5,0,0.79,Crítico,Atendimento imediato + comunicação proativa
+39,Sul,16,309.91,3,9.87,7,13,2,16.17,1,2,9,4,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+21,Nordeste,47,143.82,3,42.0,9,8,3,51.74,1,2,3,5,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+55,Sul,21,187.18,3,2.86,10,6,1,35.7,3,3,4,6,1,0.76,Crítico,Atendimento imediato + comunicação proativa
+60,Nordeste,95,55.61,2,26.26,3,14,3,20.22,1,2,5,4,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+20,Nordeste,39,478.48,2,1.91,5,13,1,19.27,3,2,1,5,1,0.66,Atenção,Monitorar pedido + contato preventivo
+25,Sudeste,62,326.42,6,2.51,3,2,0,25.13,3,2,9,3,1,0.55,Atenção,Monitorar pedido + contato preventivo
+41,Sul,101,335.21,3,5.99,10,12,1,34.0,3,2,3,4,0,0.62,Atenção,Monitorar pedido + contato preventivo
+47,Norte,80,681.46,6,9.48,5,2,1,67.06,3,1,4,2,0,0.32,Monitoramento,Acompanhar indicadores operacionais
+32,Nordeste,12,234.09,3,4.68,10,6,5,56.03,3,1,6,3,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+32,Centro-Oeste,41,93.09,3,41.18,6,2,1,26.47,2,5,5,7,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+52,Sudeste,116,110.48,2,30.15,5,2,2,19.39,1,2,4,5,0,0.85,Crítico,Atendimento imediato + comunicação proativa
+69,Centro-Oeste,84,526.69,1,0.11,11,14,2,30.87,2,2,10,5,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+25,Sudeste,37,427.0,2,18.75,1,12,3,37.03,1,2,3,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+52,Nordeste,12,73.61,2,16.07,7,12,0,36.42,2,1,5,3,0,0.5,Atenção,Monitorar pedido + contato preventivo
+66,Norte,88,527.69,6,115.35,2,11,2,52.71,1,1,2,6,0,0.83,Crítico,Atendimento imediato + comunicação proativa
+59,Norte,80,427.38,2,11.99,9,12,4,33.5,1,2,11,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+48,Centro-Oeste,15,117.97,2,28.35,5,2,3,28.02,2,2,11,6,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+28,Norte,115,208.24,3,1.81,6,4,3,5.93,1,4,10,8,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+37,Sudeste,30,627.83,1,89.05,6,6,3,49.16,3,1,8,3,0,0.86,Crítico,Atendimento imediato + comunicação proativa
+54,Nordeste,5,404.13,6,19.41,2,10,3,25.98,2,4,10,6,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+60,Sudeste,98,872.85,5,12.55,3,9,3,52.29,1,1,0,3,1,0.77,Crítico,Atendimento imediato + comunicação proativa
+34,Nordeste,69,195.24,5,28.31,1,5,4,30.12,3,0,2,3,1,0.84,Crítico,Atendimento imediato + comunicação proativa
+60,Sudeste,45,289.33,1,14.56,9,2,3,21.79,2,1,10,4,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+34,Nordeste,66,165.88,3,19.29,5,11,3,41.46,3,0,9,3,0,0.85,Crítico,Atendimento imediato + comunicação proativa
+57,Centro-Oeste,114,446.55,2,69.16,9,13,2,32.84,1,4,4,7,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+54,Sudeste,67,83.33,2,3.26,4,11,0,49.72,3,0,9,0,0,0.29,Regular,Fluxo padrão
+33,Norte,87,233.41,2,36.64,2,14,6,43.03,3,1,2,3,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+50,Norte,17,366.89,2,59.58,4,8,0,46.5,3,1,6,1,0,0.24,Regular,Fluxo padrão
+48,Norte,56,150.15,5,36.37,7,6,4,44.72,2,3,9,6,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+47,Norte,96,264.58,2,40.84,8,7,4,48.75,1,0,5,2,1,0.86,Crítico,Atendimento imediato + comunicação proativa
+50,Sudeste,49,266.59,2,18.44,9,6,0,34.51,2,2,2,3,0,0.28,Regular,Fluxo padrão
+45,Centro-Oeste,92,562.8,2,9.95,11,8,4,33.53,1,2,11,5,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+29,Centro-Oeste,7,149.9,2,34.58,11,11,2,37.97,3,0,7,2,0,0.6,Atenção,Monitorar pedido + contato preventivo
+55,Sudeste,69,110.92,5,75.5,7,11,3,51.15,2,3,11,5,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+24,Sul,56,360.68,3,12.87,3,13,2,35.39,3,1,9,2,0,0.47,Monitoramento,Acompanhar indicadores operacionais
+43,Nordeste,53,101.0,5,12.18,2,14,2,40.28,2,1,9,5,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+42,Sul,43,234.72,6,29.23,6,8,4,60.15,3,1,3,5,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+44,Centro-Oeste,39,70.87,6,16.05,6,4,3,22.09,1,1,11,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+43,Centro-Oeste,75,869.54,4,21.59,8,2,3,57.59,3,0,11,2,1,0.67,Atenção,Monitorar pedido + contato preventivo
+63,Centro-Oeste,6,61.75,4,81.68,6,14,1,62.32,3,3,10,5,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+24,Sudeste,13,323.96,1,0.24,1,2,0,39.88,1,4,6,6,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+59,Sul,78,288.59,6,59.46,7,7,4,35.22,2,2,5,6,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+66,Centro-Oeste,28,605.25,5,16.65,7,14,2,32.12,2,2,4,4,0,0.76,Crítico,Atendimento imediato + comunicação proativa
+68,Centro-Oeste,35,272.27,2,45.75,1,2,2,44.38,1,0,2,1,0,0.4,Monitoramento,Acompanhar indicadores operacionais
+19,Norte,18,507.76,2,39.16,10,5,1,41.88,3,2,5,6,1,0.76,Crítico,Atendimento imediato + comunicação proativa
+25,Norte,98,547.68,2,8.1,4,13,2,52.91,3,2,8,4,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+57,Sul,6,27.01,2,83.21,1,2,0,30.99,1,0,3,1,1,0.48,Monitoramento,Acompanhar indicadores operacionais
+49,Sul,10,74.37,1,41.6,11,10,3,28.73,1,2,0,4,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+31,Centro-Oeste,76,1135.28,6,0.48,10,10,2,36.32,3,2,0,4,1,0.74,Atenção,Monitorar pedido + contato preventivo
+34,Norte,66,407.43,3,3.62,4,2,2,46.36,1,5,9,7,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+42,Sul,68,912.45,5,16.92,10,2,4,42.95,2,2,5,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+56,Sul,36,133.98,1,52.6,11,12,0,55.25,2,0,6,1,0,0.21,Regular,Fluxo padrão
+40,Nordeste,34,326.11,4,3.28,4,4,2,58.28,2,1,2,2,0,0.46,Monitoramento,Acompanhar indicadores operacionais
+56,Norte,12,270.95,3,15.04,1,12,5,49.38,3,0,8,2,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+39,Sul,55,211.59,2,40.16,5,4,3,24.0,1,2,0,6,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+39,Nordeste,15,290.71,5,63.27,11,3,1,40.71,3,1,9,3,1,0.54,Atenção,Monitorar pedido + contato preventivo
+66,Sul,41,366.75,6,12.65,6,10,3,38.42,1,1,7,3,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+67,Norte,82,306.06,2,71.6,2,9,4,13.5,3,0,5,2,1,0.73,Atenção,Monitorar pedido + contato preventivo
+23,Sudeste,14,523.64,3,2.59,1,10,5,29.8,1,2,1,4,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+45,Sul,74,239.69,6,59.64,9,12,3,33.4,3,1,2,3,1,0.86,Crítico,Atendimento imediato + comunicação proativa
+35,Sul,11,365.01,4,43.4,7,11,3,40.95,2,1,11,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+19,Sudeste,67,430.96,2,6.8,2,10,3,16.33,1,1,4,3,1,0.75,Crítico,Atendimento imediato + comunicação proativa
+21,Sul,118,662.69,4,42.11,7,12,3,42.97,2,0,3,2,1,0.67,Atenção,Monitorar pedido + contato preventivo
+53,Nordeste,88,197.32,5,22.76,6,3,3,29.48,1,0,9,3,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+36,Sudeste,8,592.31,2,53.73,2,11,4,49.56,1,1,8,5,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+19,Sul,91,288.4,5,88.04,7,12,1,48.47,2,2,5,5,0,0.86,Crítico,Atendimento imediato + comunicação proativa
+27,Sudeste,42,165.19,5,52.82,5,10,1,63.92,3,0,8,2,1,0.45,Monitoramento,Acompanhar indicadores operacionais
+18,Sul,75,374.21,1,56.94,4,12,4,65.91,3,1,2,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+57,Nordeste,20,94.62,4,45.77,1,3,5,36.95,3,1,10,4,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+31,Sudeste,29,146.7,1,11.31,11,11,0,42.13,3,3,5,3,0,0.41,Monitoramento,Acompanhar indicadores operacionais
+38,Centro-Oeste,47,165.25,3,13.59,3,12,2,33.32,1,1,4,3,0,0.83,Crítico,Atendimento imediato + comunicação proativa
+42,Centro-Oeste,44,322.78,2,12.25,11,6,2,43.98,2,2,2,6,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+32,Sudeste,79,396.07,4,126.81,1,9,2,43.86,1,2,4,4,1,0.67,Atenção,Monitorar pedido + contato preventivo
+24,Norte,62,554.48,6,12.97,7,12,0,68.54,2,2,8,7,1,0.8,Crítico,Atendimento imediato + comunicação proativa
+20,Norte,78,618.38,6,15.23,10,3,1,42.32,2,0,4,3,1,0.58,Atenção,Monitorar pedido + contato preventivo
+24,Norte,94,313.25,1,3.01,7,6,1,34.23,2,3,11,5,1,0.86,Crítico,Atendimento imediato + comunicação proativa
+68,Sudeste,116,177.39,4,44.7,10,8,3,34.29,2,2,8,4,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+48,Sudeste,45,289.31,5,2.66,3,14,1,41.1,3,0,9,4,1,0.72,Atenção,Monitorar pedido + contato preventivo
+48,Norte,80,234.17,1,42.49,11,5,1,40.51,3,1,7,2,0,0.51,Atenção,Monitorar pedido + contato preventivo
+67,Nordeste,40,201.55,4,7.05,11,7,1,34.9,1,0,0,3,0,0.32,Monitoramento,Acompanhar indicadores operacionais
+30,Nordeste,72,486.17,2,83.69,10,5,5,52.08,2,2,1,7,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+29,Sul,110,106.3,5,3.06,7,7,3,41.63,3,4,9,6,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+38,Centro-Oeste,110,844.24,6,18.37,3,4,1,39.89,1,2,4,4,1,0.72,Atenção,Monitorar pedido + contato preventivo
+37,Norte,54,1463.84,5,16.9,7,3,3,26.05,3,2,0,4,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+31,Norte,4,885.1,6,11.54,1,8,2,55.21,3,0,4,1,0,0.45,Monitoramento,Acompanhar indicadores operacionais
+68,Sudeste,15,359.35,3,20.38,2,4,1,55.22,3,2,4,4,1,0.8,Crítico,Atendimento imediato + comunicação proativa
+55,Sudeste,119,913.63,3,16.42,1,8,2,28.01,1,2,9,7,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+27,Nordeste,93,394.47,4,107.98,10,11,2,37.46,3,1,3,2,0,0.42,Monitoramento,Acompanhar indicadores operacionais
+57,Sudeste,13,616.79,3,25.92,8,5,1,27.96,1,3,1,8,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+63,Sul,103,222.54,2,63.18,2,8,2,19.64,2,2,5,5,1,0.85,Crítico,Atendimento imediato + comunicação proativa
+42,Norte,94,248.06,4,123.45,1,2,1,38.67,1,2,1,6,1,0.69,Atenção,Monitorar pedido + contato preventivo
+34,Sul,60,217.35,5,18.4,5,10,1,34.07,1,2,0,4,0,0.56,Atenção,Monitorar pedido + contato preventivo
+37,Nordeste,79,575.52,5,18.97,11,14,4,32.64,1,3,4,6,1,0.95,Crítico,Atendimento imediato + comunicação proativa
+40,Sudeste,54,691.21,6,3.67,4,8,2,60.21,1,2,6,5,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+26,Sul,107,644.58,4,3.56,3,10,1,33.05,1,2,1,7,0,0.72,Atenção,Monitorar pedido + contato preventivo
+48,Sudeste,85,426.91,5,0.77,4,12,0,30.72,2,2,11,4,1,0.79,Crítico,Atendimento imediato + comunicação proativa
+41,Sudeste,28,532.61,3,2.7,3,8,5,40.41,1,2,2,5,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+30,Norte,88,96.59,4,0.86,7,6,1,20.04,2,1,1,4,1,0.51,Atenção,Monitorar pedido + contato preventivo
+40,Centro-Oeste,62,324.49,5,58.37,1,5,2,38.72,1,0,10,2,1,0.56,Atenção,Monitorar pedido + contato preventivo
+63,Centro-Oeste,47,410.21,4,74.57,4,13,1,26.16,3,1,6,3,0,0.55,Atenção,Monitorar pedido + contato preventivo
+19,Nordeste,73,534.5,4,2.36,11,13,0,44.0,3,0,11,0,0,0.29,Regular,Fluxo padrão
+20,Centro-Oeste,39,709.72,2,6.81,11,4,5,38.5,2,2,5,6,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+18,Centro-Oeste,24,139.8,1,12.35,6,11,3,28.03,2,2,0,5,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+64,Sudeste,87,736.79,3,29.54,2,12,2,19.19,2,0,0,1,0,0.29,Regular,Fluxo padrão
+31,Nordeste,20,409.54,6,0.82,4,8,3,45.69,3,1,6,5,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+33,Sul,17,904.14,5,11.79,9,11,3,41.5,1,1,4,3,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+25,Sul,81,816.27,1,73.96,1,8,1,58.35,1,1,4,4,1,0.71,Atenção,Monitorar pedido + contato preventivo
+29,Sul,63,522.65,3,53.95,7,4,5,43.43,1,2,3,5,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+54,Sudeste,48,229.26,6,39.0,7,2,0,44.62,1,5,1,9,1,0.76,Crítico,Atendimento imediato + comunicação proativa
+68,Sudeste,33,132.71,2,42.15,3,4,4,45.22,1,2,8,5,1,0.97,Crítico,Atendimento imediato + comunicação proativa
+62,Norte,106,258.11,3,39.98,9,3,2,49.29,2,2,1,4,0,0.76,Crítico,Atendimento imediato + comunicação proativa
+20,Sudeste,31,124.88,6,51.18,11,10,1,33.27,3,2,5,4,1,0.73,Atenção,Monitorar pedido + contato preventivo
+47,Sul,44,1284.29,6,2.89,3,7,3,43.24,3,0,10,2,1,0.75,Crítico,Atendimento imediato + comunicação proativa
+48,Sudeste,104,163.07,4,2.26,6,12,4,43.48,2,2,11,4,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+68,Norte,19,613.83,3,3.05,2,11,2,40.42,1,1,2,3,0,0.74,Atenção,Monitorar pedido + contato preventivo
+68,Norte,18,78.13,1,60.98,7,7,3,22.33,2,3,7,5,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+18,Centro-Oeste,113,127.93,1,20.8,9,14,3,27.08,2,2,0,5,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+35,Norte,108,328.47,3,15.86,8,8,1,48.54,1,2,4,4,1,0.75,Crítico,Atendimento imediato + comunicação proativa
+49,Sul,59,440.98,6,26.29,9,4,1,15.56,2,2,8,5,1,0.74,Atenção,Monitorar pedido + contato preventivo
+58,Norte,106,198.12,6,28.95,2,14,3,55.7,1,2,9,8,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+18,Nordeste,90,706.8,5,21.35,8,4,2,29.36,2,0,4,2,1,0.59,Atenção,Monitorar pedido + contato preventivo
+52,Sudeste,76,415.49,1,0.8,5,6,3,50.8,1,0,8,4,1,0.87,Crítico,Atendimento imediato + comunicação proativa
+40,Sudeste,70,242.19,3,4.28,10,13,3,52.39,2,2,8,5,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+34,Sul,88,657.32,2,8.93,8,8,1,48.25,3,1,1,3,1,0.27,Regular,Fluxo padrão
+23,Centro-Oeste,11,170.66,1,43.83,7,5,4,36.63,2,3,5,5,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+39,Nordeste,111,491.87,3,34.41,5,11,3,27.47,2,0,6,3,1,0.85,Crítico,Atendimento imediato + comunicação proativa
+19,Centro-Oeste,48,143.79,2,35.31,4,2,4,43.31,1,3,0,7,1,0.92,Crítico,Atendimento imediato + comunicação proativa
+50,Sudeste,30,1044.83,4,5.89,2,4,1,27.55,3,2,8,3,0,0.36,Monitoramento,Acompanhar indicadores operacionais
+58,Norte,113,272.71,1,29.73,2,6,3,58.5,2,2,2,4,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+47,Sudeste,26,637.17,1,55.2,11,12,2,55.77,2,3,11,7,1,0.91,Crítico,Atendimento imediato + comunicação proativa
+58,Centro-Oeste,4,490.48,5,37.29,6,14,2,20.27,3,4,7,8,1,0.88,Crítico,Atendimento imediato + comunicação proativa
+67,Sul,66,222.92,6,17.1,7,9,2,45.11,1,2,0,5,1,0.73,Atenção,Monitorar pedido + contato preventivo
+57,Centro-Oeste,41,302.19,2,5.25,5,6,3,55.06,1,1,2,3,1,0.9,Crítico,Atendimento imediato + comunicação proativa
+46,Sul,34,212.21,2,4.0,8,7,1,21.95,2,1,0,2,0,0.14,Regular,Fluxo padrão
+57,Norte,39,109.86,5,2.44,2,14,1,31.83,1,7,0,9,1,0.85,Crítico,Atendimento imediato + comunicação proativa
+35,Centro-Oeste,11,615.64,4,8.66,4,3,2,26.44,3,1,11,3,1,0.73,Atenção,Monitorar pedido + contato preventivo
+44,Sul,51,711.9,5,80.08,11,10,1,42.64,2,3,8,6,1,0.93,Crítico,Atendimento imediato + comunicação proativa
+53,Centro-Oeste,80,247.42,1,20.26,9,12,3,38.31,2,4,0,8,1,0.98,Crítico,Atendimento imediato + comunicação proativa
+31,Norte,14,396.86,5,21.37,10,8,1,28.29,3,0,2,1,0,0.16,Regular,Fluxo padrão
+41,Sul,78,780.75,2,67.15,7,2,3,64.47,2,0,4,3,1,0.78,Crítico,Atendimento imediato + comunicação proativa
+46,Centro-Oeste,17,348.5,5,16.48,9,8,1,32.81,1,1,11,3,0,0.55,Atenção,Monitorar pedido + contato preventivo
+63,Nordeste,7,54.96,3,7.99,7,6,3,48.07,1,0,6,3,1,0.89,Crítico,Atendimento imediato + comunicação proativa
+63,Sul,94,381.75,3,16.7,6,12,4,27.78,1,4,2,7,0,1.0,Crítico,Atendimento imediato + comunicação proativa
+34,Norte,89,155.97,5,11.39,5,2,3,33.04,1,3,6,6,1,1.0,Crítico,Atendimento imediato + comunicação proativa
+52,Centro-Oeste,27,181.23,1,19.73,3,9,4,28.6,2,0,6,3,1,0.96,Crítico,Atendimento imediato + comunicação proativa
+32,Sul,89,182.71,2,15.34,5,5,4,20.27,1,3,10,6,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+46,Nordeste,11,699.71,5,85.83,10,5,2,50.87,3,1,6,2,0,0.4,Monitoramento,Acompanhar indicadores operacionais
+53,Nordeste,107,536.74,6,44.93,6,14,0,42.67,1,0,3,4,0,0.53,Atenção,Monitorar pedido + contato preventivo
+49,Nordeste,95,259.39,1,8.78,5,2,5,56.7,3,0,0,4,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+48,Sul,65,355.45,3,1.37,7,11,2,33.63,2,0,2,2,1,0.4,Monitoramento,Acompanhar indicadores operacionais
+59,Centro-Oeste,46,241.86,3,149.5,11,3,4,52.68,3,1,9,3,1,0.94,Crítico,Atendimento imediato + comunicação proativa
+26,Centro-Oeste,58,1775.08,2,39.88,5,11,1,43.62,1,1,3,3,1,0.49,Monitoramento,Acompanhar indicadores operacionais
+28,Nordeste,42,140.84,2,78.2,11,5,1,38.3,3,3,0,6,0,0.78,Crítico,Atendimento imediato + comunicação proativa
+44,Centro-Oeste,80,281.63,2,6.59,7,4,1,56.53,2,2,6,5,1,0.82,Crítico,Atendimento imediato + comunicação proativa
+46,Sul,75,319.81,4,23.55,2,5,3,37.66,1,2,2,4,1,0.99,Crítico,Atendimento imediato + comunicação proativa
+28,Norte,83,474.63,3,30.64,10,6,1,39.77,1,2,2,4,0,0.63,Atenção,Monitorar pedido + contato preventivo
+38,Sul,117,184.42,2,21.94,5,7,2,43.18,3,1,1,5,1,0.89,Crítico,Atendimento imediato + comunicação proativa
